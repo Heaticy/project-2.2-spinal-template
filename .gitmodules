@@ -1,0 +1,16 @@
+[submodule "MakefileSpinal"]
+	path = makefile-spinal
+	url = git@github.com:liyuxuan3003/MakefileSpinal.git
+	branch = master
+[submodule "MagicLeda"]
+	path = magicleda
+	url = git@github.com:liyuxuan3003/MagicLeda.git
+	branch = master
+[submodule "TestRV32IPart-MakefileRiscv"]
+	path = TestRV32IPart/makefile-riscv
+	url = git@github.com:liyuxuan3003/MakefileRiscv.git
+	branch = master
+[submodule "TestRV32IFull-MakefileRiscv"]
+	path = TestRV32IFull/makefile-riscv
+	url = git@github.com:liyuxuan3003/MakefileRiscv.git
+	branch = master
